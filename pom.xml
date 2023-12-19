@@ -7,7 +7,7 @@
 	<version>1.0.0</version>
 	<name>APIDemo</name>
 	<description>Demo project CRUD operations</description>
-	<packaging>war</packaging> <!-- I added-->
+	<packaging>jar</packaging> <!-- I added-->
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
